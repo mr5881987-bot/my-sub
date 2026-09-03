@@ -1,1 +1,2 @@
 vless://23a8437d-9628-41fe-b6b4-3c64d9f07cb4@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#%7C%E2%8F%B30D
+vless://688b3e27-62ed-45c5-a67f-42e616ea056f@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#2%7C%E2%8F%B30D
