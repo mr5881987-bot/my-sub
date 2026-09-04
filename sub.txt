@@ -1,5 +1,5 @@
 vless://abf7915d-ab24-4a31-d099-251f3cdc4b46@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#1%20okk2
-vless://2e66acf7-55bc-465f-fbd4-ef61c15143b8@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#2.okk2
+vless://2e66acf7-55bc-465f-fbd4-ef61c15143b8@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#2..okk2
 vless://7c909c2e-e94c-4ac8-a52a-8056437eecdb@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#3%7C%E2%8F%B30D
 vless://3c28183b-9487-4f27-89c4-a72dabdbd1a8@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#4%7C%E2%8F%B30D
 vless://5874aeb9-8079-4155-91e6-91a378078e68@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#5%7C%20.%E2%8F%B30D
