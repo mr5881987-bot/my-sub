@@ -4,4 +4,3 @@ vless://06250e7e-f6c4-46ed-fe06-65e723739264@s1.xelzano.ir:2087?path=%2F&securit
 vless://eab64de4-7cfd-4ba3-aa90-c65695ddf226@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#4..ok
 vless://8a8b49bf-9248-49a6-b9fd-685cc8dc793a@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#5..ok
 vless://6ebdd113-26f5-4dcd-a1bc-57d0bb2b1618@104.19.2.195:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=auto-959728.avl-212e1a.workers.dev&type=ws#%D8%AC%D8%AF%DB%8C%D8%AF%20Ok%202
-vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@194.34.175.77:443?security=reality&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=localhost#%F0%9F%87%A9%F0%9F%87%AA8.ok2
