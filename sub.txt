@@ -1,6 +1,6 @@
-vless://28ee902e-4b90-4c57-fa6e-f96e4e25608a@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#ok.1
-vless://4bd2a025-790e-4453-eb2e-9f149379b9dc@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#ok.2
-vless://06250e7e-f6c4-46ed-fe06-65e723739264@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#ok.3
+vless://f0320722-3e3a-4583-0eaa-96b26403c9b2@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#1.ok
+vless://7ca7b66c-2b0d-4035-07b5-4e998193a5f9@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#2.ok
+vless://14610615-1a0b-44b6-08d9-4e252c625ea8@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#3.ok
 vless://567c2585-de33-4f61-257d-1327250cf143@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#ok.4
 vless://a0cf7c44-55d5-45ad-002d-22e20793b536@s1.xelzano.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#ok.5
 vless://6ebdd113-26f5-4dcd-a1bc-57d0bb2b1618@104.19.2.195:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=auto-959728.avl-212e1a.workers.dev&type=ws#%D8%AC%D8%AF%DB%8C%D8%AF%20Ok%202
