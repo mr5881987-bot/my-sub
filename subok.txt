@@ -1,1 +1,1 @@
-
+vless://63d7688b-4dc8-4660-38b2-88110c4bcd2d@s4.zynetrax.ir:2087?mode=auto&pcs=a98c634e00b42c9794438b90a00623efb39bd7f75346d8c46715ce01c9d29e70&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s4.zynetrax.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=s4.zynetrax.ir#Ok
