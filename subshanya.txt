@@ -1,2 +1,1 @@
-vless://fbe185ed-acf3-442b-feb5-97d0154e168b@game.celvixo.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
-trojan://MITIVpN@151.101.56.90:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B2
+vless://c087a7d9-8569-4fcb-2a11-170eae9bd5bc@game.celvixo.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#ok
