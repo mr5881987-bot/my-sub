@@ -1,1 +1,1 @@
-vless://f09f2edf-d405-421e-9f7b-037fa778b806@game.celvixo.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#ok
+vless://1e7f0930-20bb-4085-1bed-383460bb2e1f@game.celvixo.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#ok
