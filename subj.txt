@@ -1,1 +1,1 @@
-vless://ed126635-5d30-4661-bc83-97715be1d728@game.celvixo.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#%D9%88%D8%B5%D9%84
+vless://5fdf938d-f176-47c0-8e3f-547a50f3f930@145.239.69.111:20171?path=%2Falibat-ws&security=&encryption=none&host=145.239.69.111&type=ws#AliBat%20%7C%20WS%20%7C%20owner
