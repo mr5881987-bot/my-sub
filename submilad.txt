@@ -1,0 +1,1 @@
+vless://b528a6c8-f64f-4115-d357-26a675c59abc@s2.yorqino.ir:2087?mode=auto&pcs=46703ede57a8e8f8843e65f28e2decc7de020e4c477a867a52da9ac06f3627d3&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s2.yorqino.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=s2.yorqino.ir#Vip%20%E2%9A%9C%EF%B8%8F
