@@ -1,1 +1,1 @@
-vless://7c0624a0-5c3e-4fae-ee94-60b5f9c0ae16@game.celvixo.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#Vip%20%E2%9A%9C%EF%B8%8F
+vless://7c31b18c-5cf1-4df8-4723-0b7e50225384@s2.yorqino.ir:2087?mode=auto&pcs=46703ede57a8e8f8843e65f28e2decc7de020e4c477a867a52da9ac06f3627d3&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s2.yorqino.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=s2.yorqino.ir#Vip%20%E2%9A%9C%EF%B8%8F
