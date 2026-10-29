@@ -1,1 +1,1 @@
-vless://ae1e1102-7229-477b-a1a0-723fd5dafff9@147.135.128.19:20373?path=%2Falibat-ws&security=none&encryption=none&host=147.135.128.19&type=ws#Vip%20%E2%9A%9C%EF%B8%8F
+vless://fbee7bd5-4c19-45cb-d557-8bd840bbeb93@s4.zynetraq.ir:2087?mode=auto&pcs=fe38fcfdbd42b851d5254d340b33db54788251bf604ee6fa2baa78d86c52983e&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s4.zynetraq.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=s4.zynetraq.ir#Vip%20%E2%9A%9C%EF%B8%8F
