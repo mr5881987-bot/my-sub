@@ -1,1 +1,1 @@
-vless://c1226ee5-57f4-442b-ac43-b20831b7af55@147.135.128.19:20373?path=%2Falibat-ws&security=none&encryption=none&host=147.135.128.19&type=ws#Vip%20%E2%9A%9C%EF%B8%8F
+vless://b62b2d99-8155-4e03-d314-19b0287665ef@game.celvixo.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#Vip%20%E2%9A%9C%EF%B8%8F
