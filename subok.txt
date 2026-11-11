@@ -1,1 +1,1 @@
-vless://0ee6b706-d8a5-424f-2af9-c8481bbcec45@game.celvixo.ir:2087?path=%2F&security=none&encryption=none&host=cp.xelzano.ir&type=ws#Vip%20%E2%9A%9C
+vless://c9a8c81d-e205-4dee-4e58-c949cc1fb4ce@s10.memqexa.ir:2087?pcs=b9497d3c9f713f938718d760ddb19930089483c3f5b2aa2be4debdcd95dd8337&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=xhttp&sni=s10.memqexa.ir&mode=auto&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s10.memqexa.ir&allowInsecure=0#Vip%20%E2%9A%9C
